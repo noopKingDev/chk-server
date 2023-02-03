@@ -6,6 +6,7 @@ server.get("/", (req, res) => {
     }
 })
 
+
 exports.handler = async (event, context) => {
     // Run the request
     return await server.run(event, context);
