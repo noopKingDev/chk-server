@@ -1,0 +1,17 @@
+{
+    "dependencies": {
+      "lambda-api": "^0.12.0",
+      "request": "^2.88.2"
+    },
+    "name": "chk-server",
+    "version": "1.0.0",
+    "description": "server chk",
+    "main": "index.js",
+  "type":"module",
+    "devDependencies": {},
+    "scripts": {
+      "start" : "node ."
+    },
+    "author": "Noop.dev",
+    "license": "ISC"
+  }
