@@ -11,7 +11,7 @@
   "type":"module",
     "devDependencies": {},
     "scripts": {
-      "start" : "node api/core/index"
+      "start" : "node api/core/index.js"
     },
     "author": "Noop.dev",
     "license": "ISC"
