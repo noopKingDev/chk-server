@@ -1,4 +1,4 @@
-const server = require( "lambda-api")
+import server from "lambda-api"
 
 server.get("/", (req, res) => {
     return {
