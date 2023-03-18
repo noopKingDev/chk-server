@@ -8,7 +8,6 @@
     "version": "1.0.0",
     "description": "server chk",
     "main": "index.js",
-  "type":"module",
     "devDependencies": {},
     "scripts": {
       "start" : "node api/core/index.js"
